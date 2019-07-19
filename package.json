@@ -1,0 +1,21 @@
+{
+  "name": "loose-tsc",
+  "version": "0.0.1",
+  "description": "loose tsc which will skip type checking.",
+  "bin": {
+    "loose-tsc": "./bin/index.js"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "typescript",
+    "tsc",
+    "loose",
+    "transpileOnly"
+  ],
+  "peerDependencies": {
+    "typescript": "^2.0.0 || ^3.0.0"
+  },
+  "author": "hustcc",
+  "license": "ISC"
+}
